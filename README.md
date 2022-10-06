@@ -1,4 +1,4 @@
-# saphetorProject
+# rocketExProject
 
 To set up the project:
 1. install python3 in your system.
